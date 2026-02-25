@@ -1,6 +1,13 @@
-<<<<<<< HEAD
-# Cloud + AI Hands-On Project
-=======
-# cloud-ai-project
-Hands-on AI experiments with Google Cloud &amp; Hugging Face
->>>>>>> c4c72a3a593604e24dc656d6963f8b0795193adc
+# Cloud AI Project
+
+This project demonstrates AI scripts running on cloud infrastructure.
+
+## Project Structure
+- `scripts/` : Python scripts for AI tasks
+- `data/` : datasets used for testing
+- `notebooks/` : Jupyter notebooks for experimentation
+- `docs/` : documentation
+- `tests/` : test scripts
+
+## How to Run
+1. Install dependencies:
